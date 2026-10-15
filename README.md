@@ -76,6 +76,4 @@ LICENSE.txt      Usage terms
 - The order summary is static demo content. Swap the `.order-summary` block for your own cart data.
 - Fonts are loaded from Google Fonts (`Lexend Deca`, `Syne`). Swap the `<link>` in `index.html` or update `font-family` in `style.css`.
 
-## Support
 
-Questions or issues? Reach out via Payhip or email **contact@enquiryconnect.com**.
